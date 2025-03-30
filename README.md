@@ -1,8 +1,8 @@
-**Project Overview: Power BI Sales and Customer Insights Dashboard**
-**Objective**
+**Project Overview:- Power BI Sales and Customer Insights Dashboard**
+**Objective:-**
 This Power BI report provides an in-depth analysis of sales performance, customer demographics, and transaction trends. The goal is to enable data-driven decision-making by offering insights into revenue, customer behavior, and brand performance.
 
-**Key Metrics and Insights**
+**Key Metrics and Insights:-**
 Sales Performance
 
 Total Revenue: $21.53M
@@ -11,7 +11,7 @@ Total Transactions: 19.45K
 
 Bike Sales (Last 3 Years): $137K
 
-**Customer Insights**
+**Customer Insights:-**
 
 Total Customers: 3,999
 
@@ -21,7 +21,7 @@ Customer Distribution by Brand: Each major brand contributes approximately 16.67
 
 Brand and Product Analysis
 
-**Top-Selling Brands by Transactions:**
+**Top-Selling Brands by Transactions:-**
 
 Giant Bicycles: 3,244 transactions
 
@@ -35,7 +35,7 @@ Overall sales are evenly distributed among leading brands.
 
 Job and Industry Insights
 
-**Top Professions of Customers:**
+**Top Professions of Customers:-**
 
 Cost Accountant (106 customers)
 
@@ -45,7 +45,7 @@ Financial Analyst (71 customers)
 
 Senior Sales Associate (58 customers)
 
-**Industry Distribution of Customers:**
+**Industry Distribution of Customers:-**
 
 Manufacturing (24.12%)
 
@@ -67,5 +67,5 @@ Total Online Orders: 19.45K
 
 Tenure-Based Customer Insights: Customers with tenure greater than 32 years segmented by job title.
 
-**Conclusion**
+**Conclusion:-**
 This Power BI dashboard provides valuable insights into sales trends, customer behavior, and financial performance. By analyzing these key metrics, businesses can optimize their product offerings, refine pricing strategies, and better understand their customer base. The data-driven approach helps in making informed decisions to drive revenue growth, improve customer retention, and enhance overall business efficiency.
